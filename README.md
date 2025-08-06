@@ -1,7 +1,7 @@
 # trello-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Trello
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Trello (beta)](https://www.cdata.com/download/download.aspx?sku=UTZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Trello (beta)](https://www.cdata.com/download/download.aspx?sku=UTZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Trello supported by the [CData JDBC Driver for Trello](https://www.cdata.com/drivers/trello/jdbc).
 
